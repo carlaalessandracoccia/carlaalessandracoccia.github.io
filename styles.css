@@ -1,0 +1,111 @@
+/* Wider page */
+#quarto-content {
+  width: 100%;
+}
+
+main.content {
+  max-width: 1350px;
+  width: 92%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* About section */
+.profile-section {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  min-height: 70vh;
+  padding-top: 4rem;
+  padding-bottom: 5rem;
+}
+
+.profile-photo {
+  flex: 0 0 340px;
+}
+
+.profile-photo img {
+  width: 320px;
+  height: 320px;
+  object-fit: cover;
+  object-position: center top;   /* Adjust if needed */
+  border-radius: 50%;
+}
+
+.profile-text {
+  flex: 1;
+  max-width: 750px;
+}
+
+.profile-text h2 {
+  margin-top: 0;
+}
+
+/* Research section */
+#research {
+  padding-top: 5rem;
+  padding-bottom: 6rem;
+  max-width: 1000px;
+}
+
+/* Prevent navbar from covering section headings */
+#about,
+#research {
+  scroll-margin-top: 90px;
+}
+
+/* Navbar */
+.navbar {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  main.content {
+    width: 90%;
+  }
+
+  .profile-section {
+    display: block;
+    min-height: auto;
+    padding-top: 2rem;
+  }
+
+  .profile-photo {
+    margin-bottom: 2rem;
+  }
+
+  .profile-photo img {
+    width: 240px;
+    height: 280px;
+  }
+}
+
+
+/* Research paper titles */
+#research h3 {
+  color: #486B86;      /* muted blue-gray */
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+
+.abstract {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #4d4d4d;
+  margin-top: 0.5rem;
+  margin-bottom: 0.8rem;
+}
+
+/* Links under each paper */
+#research a {
+  font-size: 0.92rem;
+}
+
+/* Coauthors (if you put them in italics) */
+#research em {
+  color: #666;
+}
+

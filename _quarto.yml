@@ -1,0 +1,24 @@
+project:
+  type: website
+  resources:
+    - images/**
+    - files/**
+
+website:
+  title: "Carla Coccia"
+  navbar:
+    left:
+      - href: index.qmd#about
+        text: About
+      - href: index.qmd#research
+        text: Research
+      - href: files/CV_Coccia.pdf
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    page-layout: full
