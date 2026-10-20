@@ -1,5 +1,6 @@
 ---
 title: "Carla Coccia"
+pagetitle: "Carla Coccia | Development Economist"
 ---
 
 ::: {#about .profile-section}
@@ -32,7 +33,7 @@ With Martina Jakob.
 Bottom-up initiatives have become a popular alternative to the traditional top-down provision of local public goods. This study compares the effectiveness of these two approaches. Based on a randomized controlled trial with 120 communities in rural El Salvador, we assess the impact of two interventions addressing solid waste contamination: (i) top-down service delivery through external cleaning teams, and (ii) capacity building for bottom-up provision through local facilitators. Using an objective measure of pollution based on geotagged photos and deep learning, we find large immediate effects for both interventions, with reductions in waste by 50 percent for the top-down intervention and 39 percent for the bottom-up intervention. Despite requiring twice the monetary investment, the bottom-up intervention showed no clear sustainability advantages, with effects diminishing by 47--72 percent for both approaches four months after the withdrawal of support. Our complementary data from 2,421 surveys and 883 activity records is consistent with a theoretical framework where many individuals are willing to contribute to public goods when others do, but fail to coordinate in the absence of a committed leader.
 :::
 
-[Paper](files/Jakob-Coccia-Top-Down-or-Bottom-Up.pdf)
+[Paper](files/Coccia-Jakob-Top-Down-or-Bottom-Up.pdf)
 
 
 ### When Better Teachers Aren’t Enough: An Experimental Evaluation of Teacher Training Programs in El Salvador

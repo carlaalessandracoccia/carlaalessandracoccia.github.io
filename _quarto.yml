@@ -3,9 +3,12 @@ project:
   resources:
     - images/**
     - files/**
+    - google5c7c98acaabde1e1.html
 
 website:
   title: "Carla Coccia"
+  site-url: "https://carlaalessandracoccia.github.io/"
+  description: "Carla Coccia is a development economist and Postdoctoral Fellow at the Paris School of Economics, researching education, policy evaluation, and experimental development economics."
   navbar:
     left:
       - href: index.qmd#about
