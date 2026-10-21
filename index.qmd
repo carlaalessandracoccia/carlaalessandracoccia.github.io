@@ -34,7 +34,7 @@ With Martina Jakob.
 Bottom-up initiatives have become a popular alternative to the traditional top-down provision of local public goods. This study compares the effectiveness of these two approaches. Based on a randomized controlled trial with 120 communities in rural El Salvador, we assess the impact of two interventions addressing solid waste contamination: (i) top-down service delivery through external cleaning teams, and (ii) capacity building for bottom-up provision through local facilitators. Using an objective measure of pollution based on geotagged photos and deep learning, we find large immediate effects for both interventions, with reductions in waste by 50 percent for the top-down intervention and 39 percent for the bottom-up intervention. Despite requiring twice the monetary investment, the bottom-up intervention showed no clear sustainability advantages, with effects diminishing by 47--72 percent for both approaches four months after the withdrawal of support. Our complementary data from 2,421 surveys and 883 activity records is consistent with a theoretical framework where many individuals are willing to contribute to public goods when others do, but fail to coordinate in the absence of a committed leader.
 :::
 
-[Paper](files/Coccia-Jakob-Top-Down-or-Bottom-Up.pdf)
+[Working Paper](files/Coccia-Jakob-Top-Down-or-Bottom-Up.pdf)
 
 
 ### When Better Teachers Aren’t Enough: An Experimental Evaluation of Teacher Training Programs in El Salvador
@@ -42,10 +42,10 @@ Bottom-up initiatives have become a popular alternative to the traditional top-d
 With Martina Jakob, Konstantin Büchel and Ben Jann.
 
 ::: {.abstract}
-Despite billions spent annually on teacher training, rigorous evidence on standalone in-service programs remains scarce, as most evaluated programs bundle training with curriculum or material reforms. We address this gap through a large-scale randomized controlled trial with 338 schools and over 6,000 students in El Salvador. Teachers are randomly assigned to either a control group or one of three training programs focusing on (i) content knowledge, (ii) pedagogical knowledge, or (iii) a combination of both inputs. We find lasting effects on teacher content and pedagogi- cal knowledge of up to 0.3σ and 0.57σ respectively one year after program end. Yet, this only changes teachers’ classroom practices in the short-run and does not translate into significant student learnings. The data most closely aligns with a setting where teachers face a dual challenge: sustaining new instructional practices in a rigid environment while navigating the significant learning gaps present among students in later grades.
+Despite billions spent annually on teacher training, rigorous evidence on standalone in-service programs remains scarce, as most evaluated programs bundle training with curriculum or material reforms. We address this gap through a large-scale randomized controlled trial with 338 schools and over 6,000 students in El Salvador. Teachers are randomly assigned to either a control group or one of three training programs focusing on (i) content knowledge, (ii) pedagogical knowledge, or (iii) a combination of both inputs. We find lasting effects on teacher content and pedagogical knowledge of up to 0.3σ and 0.57σ respectively one year after program end. Yet, this only changes teachers’ classroom practices in the short-run and does not translate into significant student learnings. The data most closely aligns with a setting where teachers face a dual challenge: sustaining new instructional practices in a rigid environment while navigating the significant learning gaps present among students in later grades.
 :::
 
-[Paper](files/QUEST_paper.pdf) 
+[Working Paper](files/QUEST_paper.pdf) 
 
 
 ### Beyond Beliefs: Experimental Evidence on Follow-Through Frictions at School Transitions
